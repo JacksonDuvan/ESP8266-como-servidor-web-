@@ -4,15 +4,15 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "ARRIS-2692"
-#define WLAN_PASS       "32352DC099DB705D"
+#define WLAN_SSID       "...SSID..." //Nombre del router al que se va a conectar 
+#define WLAN_PASS       "...PASS...." //Clave del WiFi 
 
 /************************* Adafruit.io Setup *********************************/
 
-#define AIO_SERVER      "io.adafruit.com"
+#define AIO_SERVER      "io.adafruit.com" //Pagina Adafruit
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "jzambranosb"
-#define AIO_KEY         "35e02be7d243465f8b4791a5544c3780"
+#define AIO_USERNAME    "...Username..." //Nombre creado de la cuenta de io.Adafruit.com 
+#define AIO_KEY         "...KEY..." //Contraseña que le da la cuenta io.Adafruit.com
 
 /************ Global State (you don't need to change this!) ******************/
 
